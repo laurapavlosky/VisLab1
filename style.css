@@ -1,0 +1,35 @@
+#content-col {
+  float: left ;
+  width: 50% ;
+
+}
+#imageField {
+  float: left;
+  width: 50%;
+}
+
+#generate.button {
+    background-color: #B7ABA9;
+    border-color: #B7ABA9;
+}
+
+div {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+  }
+
+#content p {
+    background: #F2F2F2;
+    color: #B7ABA9;
+    margin: 10px;
+    border-radius: 10px;
+    border-color: #B7ABA9;
+    padding: 20px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
